@@ -1,0 +1,8 @@
+.*
+!.gitignore
+!.github/cc.sh
+!.github/workflows/ccclassroom.yml
+*.class
+*.iml
+out/
+target/
